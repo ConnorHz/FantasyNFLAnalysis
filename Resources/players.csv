@@ -1,0 +1,499 @@
+id,name,team,team_abbr,position
+KamaAl00,Alvin Kamara,New Orleans Saints,NOR,RB
+WilsRu00,Russell Wilson,Seattle Seahawks,SEA,QB
+CookDa01,Dalvin Cook,Minnesota Vikings,MIN,RB
+MahoPa00,Patrick Mahomes,Kansas City Chiefs,KAN,QB
+PresDa01,Dak Prescott,Dallas Cowboys,DAL,QB
+MetcDK00,D.K. Metcalf,Seattle Seahawks,SEA,WR
+ElliEz00,Ezekiel Elliott,Dallas Cowboys,DAL,RB
+JoneAa00,Aaron Jones,Green Bay Packers,GNB,RB
+ThieAd00,Adam Thielen,Minnesota Vikings,MIN,WR
+MurrKy00,Kyler Murray,Arizona Cardinals,ARI,QB
+RidlCa00,Calvin Ridley,Atlanta Falcons,ATL,WR
+HillTy00,Tyreek Hill,Kansas City Chiefs,KAN,WR
+CarsCh00,Chris Carson,Seattle Seahawks,SEA,RB
+HuntKa00,Kareem Hunt,Cleveland Browns,CLE,RB
+JacoJo01,Josh Jacobs,Las Vegas Raiders,LVR,RB
+KelcTr00,Travis Kelce,Kansas City Chiefs,KAN,TE
+HopkDe00,DeAndre Hopkins,Arizona Cardinals,ARI,WR
+AlleJo02,Josh Allen,Buffalo Bills,BUF,QB
+EvanMi00,Mike Evans,Tampa Bay Buccaneers,TAM,WR
+BeckOd00,Odell Beckham Jr.,Cleveland Browns,CLE,WR
+GurlTo01,Todd Gurley,Atlanta Falcons,ATL,RB
+AndrMa00,Mark Andrews,Baltimore Ravens,BAL,TE
+LockTy00,Tyler Lockett,Seattle Seahawks,SEA,WR
+ClayCh01,Chase Claypool,Pittsburgh Steelers,PIT,WR
+RobiJa00,James Robinson,Jacksonville Jaguars,JAX,RB
+LambCe00,CeeDee Lamb,Dallas Cowboys,DAL,WR
+MixoJo00,Joe Mixon,Cincinnati Bengals,CIN,RB
+AndeRo04,Robby Anderson,Carolina Panthers,CAR,WR
+WoodRo02,Robert Woods,Los Angeles Rams,LAR,WR
+RobiAl02,Allen Robinson,Chicago Bears,CHI,WR
+TonyRo00,Robert Tonyan,Green Bay Packers,GNB,TE
+DiggSt00,Stefon Diggs,Buffalo Bills,BUF,WR
+FullWi01,Will Fuller,Houston Texans,HOU,WR
+DaviMi01,Mike Davis,Carolina Panthers,CAR,RB
+CoopAm00,Amari Cooper,Dallas Cowboys,DAL,WR
+TaylJo02,Jonathan Taylor,Indianapolis Colts,IND,RB
+HendDa00,Darrell Henderson,Los Angeles Rams,LAR,RB
+KuppCo00,Cooper Kupp,Los Angeles Rams,LAR,WR
+McLaTe00,Terry McLaurin,Washington Football Team,WAS,WR
+GrahJi00,Jimmy Graham,Chicago Bears,CHI,TE
+RodgAa00,Aaron Rodgers,Green Bay Packers,GNB,QB
+SandMi01,Miles Sanders,Philadelphia Eagles,PHI,RB
+EdwaCl00,Clyde Edwards-Helaire,Kansas City Chiefs,KAN,RB
+FitzRy00,Ryan Fitzpatrick,Miami Dolphins,MIA,QB
+ChubNi00,Nick Chubb,Cleveland Browns,CLE,RB
+GesiMi00,Mike Gesicki,Miami Dolphins,MIA,TE
+SlayDa01,Darius Slayton,New York Giants,NYG,WR
+WallDa01,Darren Waller,Las Vegas Raiders,LVR,TE
+AlleKe00,Keenan Allen,Los Angeles Chargers,LAC,WR
+CrowJa00,Jamison Crowder,New York Jets,NYJ,WR
+ParkDe01,DeVante Parker,Miami Dolphins,MIA,WR
+GordMe00,Melvin Gordon,Denver Broncos,DEN,RB
+MoorD.00,D.J. Moore,Carolina Panthers,CAR,WR
+BradTo00,Tom Brady,Tampa Bay Buccaneers,TAM,QB
+McKiJe00,Jerick McKinnon,San Francisco 49ers,SFO,RB
+HigbTy00,Tyler Higbee,Los Angeles Rams,LAR,TE
+JeffJu00,Justin Jefferson,Minnesota Vikings,MIN,WR
+SmitJo01,Jonnu Smith,Tennessee Titans,TEN,TE
+ConnJa00,James Conner,Pittsburgh Steelers,PIT,RB
+BoydTy00,Tyler Boyd,Cincinnati Bengals,CIN,WR
+FantNo00,Noah Fant,Denver Broncos,DEN,TE
+SandEm00,Emmanuel Sanders,New Orleans Saints,NOR,WR
+WatsDe00,Deshaun Watson,Houston Texans,HOU,QB
+GoffJa00,Jared Goff,Los Angeles Rams,LAR,QB
+JackLa00,Lamar Jackson,Baltimore Ravens,BAL,QB
+JohnDa08,David Johnson,Houston Texans,HOU,RB
+KittGe00,George Kittle,San Francisco 49ers,SFO,TE
+GallMi00,Michael Gallup,Dallas Cowboys,DAL,WR
+MontDa01,David Montgomery,Chicago Bears,CHI,RB
+ColeKe00,Keelan Cole,Jacksonville Jaguars,JAX,WR
+CharDJ00,DJ Chark,Jacksonville Jaguars,JAX,WR
+HenrHu00,Hunter Henry,Los Angeles Chargers,LAC,TE
+MostRa00,Raheem Mostert,San Francisco 49ers,SFO,RB
+GibsAn00,Antonio Gibson,Washington Football Team,WAS,RB
+SchuDa00,Dalton Schultz,Dallas Cowboys,DAL,TE
+JoneRo01,Ronald Jones II,Tampa Bay Buccaneers,TAM,RB
+LazaAl00,Allen Lazard,Green Bay Packers,GNB,WR
+WattDe00,Derek Watt,Pittsburgh Steelers,PIT,
+CarrDe02,Derek Carr,Las Vegas Raiders,LVR,QB
+MinsGa00,Gardner Minshew II,Jacksonville Jaguars,JAX,QB
+BridTe00,Teddy Bridgewater,Carolina Panthers,CAR,QB
+BreeDr00,Drew Brees,New Orleans Saints,NOR,QB
+HerbJu00,Justin Herbert,Los Angeles Chargers,LAC,QB
+WentCa00,Carson Wentz,Philadelphia Eagles,PHI,QB
+RyanMa00,Matt Ryan,Atlanta Falcons,ATL,QB
+BurrJo01,Joe Burrow,Cincinnati Bengals,CIN,QB
+RoetBe00,Ben Roethlisberger,Pittsburgh Steelers,PIT,QB
+StafMa00,Matthew Stafford,Detroit Lions,DET,QB
+NewtCa00,Cam Newton,New England Patriots,NWE,QB
+MayfBa00,Baker Mayfield,Cleveland Browns,CLE,QB
+CousKi00,Kirk Cousins,Minnesota Vikings,MIN,QB
+TannRy00,Ryan Tannehill,Tennessee Titans,TEN,QB
+RivePh00,Philip Rivers,Indianapolis Colts,IND,QB
+DarnSa00,Sam Darnold,New York Jets,NYJ,QB
+HaskDw00,Dwayne Haskins,Washington Football Team,WAS,QB
+JoneDa05,Daniel Jones,New York Giants,NYG,QB
+TrubMi00,Mitchell Trubisky,Chicago Bears,CHI,QB
+HenrDe00,Derrick Henry,Tennessee Titans,TEN,RB
+DrakKe00,Kenyan Drake,Arizona Cardinals,ARI,RB
+GaskMy00,Myles Gaskin,Miami Dolphins,MIA,RB
+McCaCh01,Christian McCaffrey,Carolina Panthers,CAR,RB
+EkelAu00,Austin Ekeler,Los Angeles Chargers,LAC,RB
+BurkRe00,Rex Burkhead,New England Patriots,NWE,RB
+FoleNi00,Nick Foles,Chicago Bears,CHI,QB
+MurrLa00,Latavius Murray,New Orleans Saints,NOR,RB
+EdmoCh00,Chase Edmonds,Arizona Cardinals,ARI,RB
+SingDe00,Devin Singletary,Buffalo Bills,BUF,RB
+SmitJu00,JuJu Smith-Schuster,Pittsburgh Steelers,PIT,WR
+BrowMa03,Malcolm Brown,Los Angeles Rams,LAR,RB
+BrowMa04,Marquise Brown,Baltimore Ravens,BAL,WR
+ShenLa00,Laviska Shenault Jr.,Jacksonville Jaguars,JAX,WR
+AghoNe00,Nelson Agholor,Las Vegas Raiders,LVR,WR
+CookBr00,Brandin Cooks,Houston Texans,HOU,WR
+WillPr01,Preston Williams,Miami Dolphins,MIA,WR
+HiggTe00,Tee Higgins,Cincinnati Bengals,CIN,WR
+IngrMa01,Mark Ingram,Baltimore Ravens,BAL,RB
+AiyuBr00,Brandon Aiyuk,San Francisco 49ers,SFO,WR
+HardMe00,Mecole Hardman,Kansas City Chiefs,KAN,WR
+MattAl01,Alexander Mattison,Minnesota Vikings,MIN,RB
+PeteAd01,Adrian Peterson,Detroit Lions,DET,RB
+FulgTr00,Travis Fulgham,Philadelphia Eagles,PHI,WR
+LandJa00,Jarvis Landry,Cleveland Browns,CLE,WR
+PatrTi00,Tim Patrick,Denver Broncos,DEN,WR
+WatkSa00,Sammy Watkins,Kansas City Chiefs,KAN,WR
+WillMi07,Mike Williams,Los Angeles Chargers,LAC,WR
+WilsCe01,Cedrick Wilson,Dallas Cowboys,DAL,WR
+BeasCo00,Cole Beasley,Buffalo Bills,BUF,WR
+CobbRa00,Randall Cobb,Houston Texans,HOU,WR
+DobbJK00,J.K. Dobbins,Baltimore Ravens,BAL,RB
+EdelJu00,Julian Edelman,New England Patriots,NWE,WR
+GaroJi00,Jimmy Garoppolo,San Francisco 49ers,SFO,QB
+HineNy00,Nyheim Hines,Indianapolis Colts,IND,RB
+HockTJ00,T.J. Hockenson,Detroit Lions,DET,TE
+KellJo01,Joshua Kelley,Los Angeles Chargers,LAC,RB
+MillSc01,Scott Miller,Tampa Bay Buccaneers,TAM,WR
+AdamDa01,Davante Adams,Green Bay Packers,GNB,WR
+AlieMo00,Mo Alie-Cox,Indianapolis Colts,IND,TE
+BrowJo02,John Brown,Buffalo Bills,BUF,WR
+MoorDa03,David Moore,Seattle Seahawks,SEA,WR
+SmitTr03,Tre'Quan Smith,New Orleans Saints,NOR,WR
+DrisJe00,Jeff Driskel,Denver Broncos,DEN,QB
+RenfHu00,Hunter Renfrow,Las Vegas Raiders,LVR,WR
+BourKe00,Kendrick Bourne,San Francisco 49ers,SFO,WR
+CookJa02,Jared Cook,New Orleans Saints,NOR,TE
+GuytJa01,Jalen Guyton,Los Angeles Chargers,LAC,WR
+HursHa00,Hayden Hurst,Atlanta Falcons,ATL,TE
+JeudJe00,Jerry Jeudy,Denver Broncos,DEN,WR
+MillAn02,Anthony Miller,Chicago Bears,CHI,WR
+SwifDA00,D'Andre Swift,Detroit Lions,DET,RB
+WardGr02,Greg Ward,Philadelphia Eagles,PHI,WR
+FourLe00,Leonard Fournette,Tampa Bay Buccaneers,TAM,RB
+GageRu00,Russell Gage,Atlanta Falcons,ATL,WR
+DaviCo03,Corey Davis,Tennessee Titans,TEN,WR
+HowaO.00,O.J. Howard,Tampa Bay Buccaneers,TAM,TE
+ValdMa00,Marquez Valdes-Scantling,Green Bay Packers,GNB,WR
+BerrBr00,Braxton Berrios,New York Jets,NYJ,WR
+HillBr02,Brian Hill,Atlanta Falcons,ATL,RB
+IsabAn00,Andy Isabella,Arizona Cardinals,ARI,WR
+MichSo00,Sony Michel,New England Patriots,NWE,RB
+DaviGa01,Gabriel Davis,Buffalo Bills,BUF,WR
+RuggHe00,Henry Ruggs III,Las Vegas Raiders,LVR,WR
+SamuCu00,Curtis Samuel,Carolina Panthers,CAR,WR
+WillJa06,Jamaal Williams,Green Bay Packers,GNB,RB
+FellDa01,Darren Fells,Houston Texans,HOU,TE
+GollKe00,Kenny Golladay,Detroit Lions,DET,WR
+MullNi00,Nick Mullens,San Francisco 49ers,SFO,QB
+WilsJe01,Jeff Wilson,San Francisco 49ers,SFO,RB
+AkinJo00,Jordan Akins,Houston Texans,HOU,TE
+ErtzZa00,Zach Ertz,Philadelphia Eagles,PHI,TE
+FreeDe00,Devonta Freeman,New York Giants,NYG,RB
+HiltT.00,T.Y. Hilton,Indianapolis Colts,IND,WR
+EngrEv00,Evan Engram,New York Giants,NYG,TE
+GoreFr00,Frank Gore,New York Jets,NYJ,RB
+InmaDo00,Dontrelle Inman,Washington Football Team,WAS,WR
+KirkCh01,Christian Kirk,Arizona Cardinals,ARI,WR
+MoonDa00,Darnell Mooney,Chicago Bears,CHI,WR
+HarrNK00,N'Keal Harry,New England Patriots,NWE,WR
+HoopAu00,Austin Hooper,Cleveland Browns,CLE,TE
+JoneJu02,Julio Jones,Atlanta Falcons,ATL,WR
+ReedJo02,Jordan Reed,San Francisco 49ers,SFO,TE
+EbroEr00,Eric Ebron,Pittsburgh Steelers,PIT,TE
+GodwCh00,Chris Godwin,Tampa Bay Buccaneers,TAM,WR
+GoedDa00,Dallas Goedert,Philadelphia Eagles,PHI,TE
+HumpAd00,Adam Humphries,Tennessee Titans,TEN,WR
+JohnDi01,Diontae Johnson,Pittsburgh Steelers,PIT,WR
+JoneMa02,Marvin Jones,Detroit Lions,DET,WR
+OlseGr00,Greg Olsen,Seattle Seahawks,SEA,TE
+PascZa00,Zach Pascal,Indianapolis Colts,IND,WR
+ConlCh00,Chris Conley,Jacksonville Jaguars,JAX,WR
+EdwaGu00,Gus Edwards,Baltimore Ravens,BAL,RB
+HowaJo00,Jordan Howard,Miami Dolphins,MIA,RB
+AmenDa00,Danny Amendola,Detroit Lions,DET,WR
+ByrdDa00,Damiere Byrd,New England Patriots,NWE,WR
+EverGe00,Gerald Everett,Los Angeles Rams,LAR,TE
+McKiJ.00,J.D. McKissic,Washington Football Team,WAS,RB
+SneaWi00,Willie Snead,Baltimore Ravens,BAL,WR
+WashJa00,James Washington,Pittsburgh Steelers,PIT,WR
+BreiMa00,Matt Breida,Miami Dolphins,MIA,RB
+FordIs00,Isaiah Ford,Miami Dolphins,MIA,WR
+RichJa01,Jalen Richard,Las Vegas Raiders,LVR,RB
+ThomCh03,Chris Thompson,Jacksonville Jaguars,JAX,RB
+ThomLo00,Logan Thomas,Washington Football Team,WAS,TE
+BarbPe01,Peyton Barber,Washington Football Team,WAS,RB
+BookDe00,Devontae Booker,Las Vegas Raiders,LVR,RB
+DuveDe00,Devin Duvernay,Baltimore Ravens,BAL,WR
+KrofTy00,Tyler Kroft,Buffalo Bills,BUF,TE
+PollTo00,Tony Pollard,Dallas Cowboys,DAL,RB
+ReynJo00,Josh Reynolds,Los Angeles Rams,LAR,WR
+StilKe00,Kenny Stills,Houston Texans,HOU,WR
+SwaiFr00,Freddie Swain,Seattle Seahawks,SEA,WR
+BonnRe00,Reggie Bonnafon,Carolina Panthers,CAR,RB
+EifeTy00,Tyler Eifert,Jacksonville Jaguars,JAX,TE
+JohnKe06,Kerryon Johnson,Detroit Lions,DET,RB
+JuszKy00,Kyle Juszczyk,San Francisco 49ers,SFO,RB
+LewiDi00,Dion Lewis,New York Giants,NYG,RB
+TateGo00,Golden Tate,New York Giants,NYG,WR
+UzomC.00,C.J. Uzomah,Cincinnati Bengals,CIN,TE
+ZaccOl01,Olamide Zaccheaus,Atlanta Falcons,ATL,WR
+FlacJo00,Joe Flacco,New York Jets,NYJ,QB
+GronRo00,Rob Gronkowski,Tampa Bay Buccaneers,TAM,TE
+HydeCa00,Carlos Hyde,Seattle Seahawks,SEA,RB
+JohnDE04,D'Ernest Johnson,Cleveland Browns,CLE,RB
+JoneZa00,Zay Jones,Las Vegas Raiders,LVR,WR
+RudoKy00,Kyle Rudolph,Minnesota Vikings,MIN,TE
+BernGi00,Giovani Bernard,Cincinnati Bengals,CIN,RB
+HomeTr00,Travis Homer,Seattle Seahawks,SEA,RB
+IngoAl01,Alec Ingold,Las Vegas Raiders,LVR,RB
+PattCo00,Cordarrelle Patterson,Chicago Bears,CHI,WR
+AkerCa00,Cam Akers,Los Angeles Rams,LAR,RB
+BryaHa00,Harrison Bryant,Cleveland Browns,CLE,TE
+CoheTa00,Tarik Cohen,Chicago Bears,CHI,RB
+DissWi00,Will Dissly,Seattle Seahawks,SEA,TE
+FitzLa00,Larry Fitzgerald,Arizona Cardinals,ARI,WR
+GreeA.00,A.J. Green,Cincinnati Bengals,CIN,WR
+HillTa00,Taysom Hill,New Orleans Saints,NOR,QB
+HogaCh00,Chris Hogan,New York Jets,NYJ,WR
+JackDe00,DeSean Jackson,Philadelphia Eagles,PHI,WR
+JackJu01,Justin Jackson,Los Angeles Chargers,LAC,RB
+JameJe00,Jesse James,Detroit Lions,DET,TE
+JohnTy03,Tyron Johnson,Los Angeles Chargers,LAC,WR
+LockDr00,Drew Lock,Denver Broncos,DEN,QB
+MoreFo00,Foster Moreau,Las Vegas Raiders,LVR,TE
+MossZa00,Zack Moss,Buffalo Bills,BUF,RB
+NjokDa00,David Njoku,Cleveland Browns,CLE,TE
+O'ShJa00,James O'Shaughnessy,Jacksonville Jaguars,JAX,TE
+RaymKa00,Kalif Raymond,Tennessee Titans,TEN,WR
+SampDr00,Drew Sample,Cincinnati Bengals,CIN,TE
+SnelBe00,Benny Snell Jr.,Pittsburgh Steelers,PIT,RB
+WilkJo01,Jordan Wilkins,Indianapolis Colts,IND,RB
+BeatC.00,C.J. Beathard,San Francisco 49ers,SFO,QB
+BellLe00,Le'Veon Bell,New York Jets,NYJ,RB
+BoykMi00,Miles Boykin,Baltimore Ravens,BAL,WR
+BratCa00,Cameron Brate,Tampa Bay Buccaneers,TAM,TE
+GranJa00,Jakeem Grant,Miami Dolphins,MIA,WR
+HallMa02,Marvin Hall,Detroit Lions,DET,WR
+JohnCo01,Collin Johnson,Jacksonville Jaguars,JAX,WR
+RypiBr00,Brett Rypien,Denver Broncos,DEN,QB
+ScotBo02,Boston Scott,Philadelphia Eagles,PHI,RB
+ThomMi04,Mike Thomas,Cincinnati Bengals,CIN,WR
+WhitJa02,James White,New England Patriots,NWE,RB
+AlleKy00,Kyle Allen,Washington Football Team,WAS,QB
+ArnoDa00,Dan Arnold,Arizona Cardinals,ARI,TE
+CephQu00,Quintez Cephus,Detroit Lions,DET,WR
+EdwaBr01,Bryan Edwards,Las Vegas Raiders,LVR,WR
+GallWa00,Wayne Gallman,New York Giants,NYG,RB
+HarrDa06,Damien Harris,New England Patriots,NWE,RB
+HiggRa00,Rashard Higgins,Cleveland Browns,CLE,WR
+McKeIs00,Isaiah McKenzie,Buffalo Bills,BUF,WR
+ReagJa00,Jalen Reagor,Philadelphia Eagles,PHI,WR
+SmitJe03,Jeff Smith,New York Jets,NYJ,WR
+BarkSa00,Saquon Barkley,New York Giants,NYG,RB
+BoylNi00,Nick Boyle,Baltimore Ravens,BAL,TE
+CampPa00,Parris Campbell,Indianapolis Colts,IND,WR
+HamlKJ00,KJ Hamler,Denver Broncos,DEN,WR
+HarrDe07,Deonte Harris,New Orleans Saints,NOR,WR
+HollJa03,Jacob Hollister,Seattle Seahawks,SEA,TE
+JohnOl00,Olabisi Johnson,Minnesota Vikings,MIN,WR
+TaylTy00,Tyrod Taylor,Los Angeles Chargers,LAC,QB
+ThomIa00,Ian Thomas,Carolina Panthers,CAR,TE
+WatsJu01,Justin Watson,Tampa Bay Buccaneers,TAM,WR
+WillDa10,Darrel Williams,Kansas City Chiefs,KAN,RB
+WittJa00,Jason Witten,Las Vegas Raiders,LVR,TE
+AdamJo03,Josh Adams,New York Jets,NYJ,RB
+BallKa00,Kalen Ballage,New York Jets,NYJ,RB
+BrowNo00,Noah Brown,Dallas Cowboys,DAL,WR
+FreeRo00,Royce Freeman,Denver Broncos,DEN,RB
+HernCh00,Chris Herndon,New York Jets,NYJ,TE
+HighJo00,John Hightower,Philadelphia Eagles,PHI,WR
+JeffVa00,Van Jefferson,Los Angeles Rams,LAR,WR
+JohnDu00,Duke Johnson,Houston Texans,HOU,RB
+JohnMa07,Marcus Johnson,Indianapolis Colts,IND,WR
+LewiMa00,Marcedes Lewis,Green Bay Packers,GNB,TE
+McClRa00,Ray-Ray McCloud,Pittsburgh Steelers,PIT,WR
+ParhDo00,Donald Parham,Los Angeles Chargers,LAC,TE
+PruiMy00,MyCole Pruitt,Tennessee Titans,TEN,TE
+ShepSt00,Sterling Shepard,New York Giants,NYG,WR
+SimsSt00,Steven Sims,Washington Football Team,WAS,WR
+SmitIr01,Irv Smith Jr.,Minnesota Vikings,MIN,TE
+WimsJa00,Javon Wims,Chicago Bears,CHI,WR
+BellBl00,Blake Bell,Dallas Cowboys,DAL,TE
+ErviTy00,Tyler Ervin,Green Bay Packers,GNB,RB
+JohnJa12,Jakob Johnson,New England Patriots,NWE,RB
+PittMi01,Michael Pittman Jr.,Indianapolis Colts,IND,WR
+RodgRi00,Richard Rodgers,Philadelphia Eagles,PHI,TE
+SamuDe00,Deebo Samuel,San Francisco 49ers,SFO,WR
+ShahAd00,Adam Shaheen,Miami Dolphins,MIA,TE
+SherAn00,Anthony Sherman,Kansas City Chiefs,KAN,RB
+SuttCo00,Courtland Sutton,Denver Broncos,DEN,WR
+TaylJJ01,J.J. Taylor,New England Patriots,NWE,RB
+VaugKe00,Ke'Shawn Vaughn,Tampa Bay Buccaneers,TAM,RB
+BoarC.00,C.J. Board,New York Giants,NYG,WR
+ColeTe01,Tevin Coleman,San Francisco 49ers,SFO,RB
+DaniDa02,Darrell Daniels,Arizona Cardinals,ARI,TE
+DoylJa00,Jack Doyle,Indianapolis Colts,IND,TE
+GillRe00,Reggie Gilliam,Buffalo Bills,BUF,TE
+JohnTy00,Tyler Johnson,Tampa Bay Buccaneers,TAM,WR
+KnoxDa00,Dawson Knox,Buffalo Bills,BUF,TE
+MackMa00,Marlon Mack,Indianapolis Colts,IND,RB
+McFaAn00,Anthony McFarland Jr.,Pittsburgh Steelers,PIT,RB
+PeriLa00,La'Mical Perine,New York Jets,NYJ,RB
+RatlDa00,Damion Ratley,New York Giants,NYG,WR
+RicaPa00,Patrick Ricard,Baltimore Ravens,BAL,RB
+SmitIt00,Ito Smith,Atlanta Falcons,ATL,RB
+SmitLe00,Lee Smith,Buffalo Bills,BUF,WR
+TateAu00,Auden Tate,Cincinnati Bengals,CIN,WR
+ThomJo05,Jordan Thomas,Arizona Cardinals,ARI,TE
+WrigIs01,Isaiah Wright,Washington Football Team,WAS,WR
+BlakCh00,Christian Blake,Atlanta Falcons,ATL,WR
+BurtTr01,Trey Burton,Indianapolis Colts,IND,TE
+CallMa01,Marquez Callaway,New Orleans Saints,NOR,WR
+DwelRo00,Ross Dwelley,San Francisco 49ers,SFO,TE
+FirkAn00,Anthony Firkser,Tennessee Titans,TEN,TE
+HodgKh00,KhaDarel Hodge,Cleveland Browns,CLE,WR
+McCoLe01,LeSean McCoy,Tampa Bay Buccaneers,TAM,RB
+McDoVa00,Vance McDonald,Pittsburgh Steelers,PIT,TE
+RobiDe01,Demarcus Robinson,Kansas City Chiefs,KAN,WR
+SmitKa00,Kaden Smith,New York Giants,NYG,TE
+ArceJJ00,JJ Arcega-Whiteside,Philadelphia Eagles,PHI,WR
+BatsCa00,Cameron Batson,Tennessee Titans,TEN,WR
+BrowAJ00,A.J. Brown,Tennessee Titans,TEN,WR
+CageLa01,Lawrence Cager,New York Jets,NYJ,WR
+DuliAs00,Ashton Dulin,Indianapolis Colts,IND,WR
+GinnTe00,Ted Ginn Jr.,Chicago Bears,CHI,WR
+IzzoRy00,Ryan Izzo,New England Patriots,NWE,TE
+LindPh00,Phillip Lindsay,Denver Broncos,DEN,RB
+SmytDu00,Durham Smythe,Miami Dolphins,MIA,TE
+SterJa00,Jace Sternberger,Green Bay Packers,GNB,TE
+TaylTr02,Trent Taylor,San Francisco 49ers,SFO,WR
+AgneJa00,Jamal Agnew,Detroit Lions,DET,WR
+CartCe00,Cethan Carter,Cincinnati Bengals,CIN,TE
+ClemCo00,Corey Clement,Philadelphia Eagles,PHI,RB
+DillAJ00,AJ Dillon,Green Bay Packers,GNB,RB
+GandAn00,Antonio Gandy-Golden,Washington Football Team,WAS,WR
+HamiDa01,DaeSean Hamilton,Denver Broncos,DEN,WR
+HarrDe03,Demetrius Harris,Chicago Bears,CHI,TE
+HurtJa00,Jalen Hurts,Philadelphia Eagles,PHI,QB
+JohnKe07,KeeSean Johnson,Arizona Cardinals,ARI,WR
+MaloJo00,Josh Malone,New York Jets,NYJ,WR
+ManhCh00,Chris Manhertz,Carolina Panthers,CAR,TE
+PerrBr02,Breshad Perriman,New York Jets,NYJ,WR
+PoweBr00,Brandon Powell,Atlanta Falcons,ATL,WR
+RobeSe00,Seth Roberts,Carolina Panthers,CAR,WR
+StidJa00,Jarrett Stidham,New England Patriots,NWE,QB
+TrauAd00,Adam Trautman,New Orleans Saints,NOR,TE
+ArmaAl00,Alex Armah,Carolina Panthers,CAR,RB
+BeebCh00,Chad Beebe,Minnesota Vikings,MIN,WR
+BoonMi00,Mike Boone,Minnesota Vikings,MIN,RB
+BurnDe00,Deontay Burnett,Philadelphia Eagles,PHI,WR
+CarlSt00,Stephen Carlson,Cleveland Browns,CLE,
+DallDe00,DeeJay Dallas,Seattle Seahawks,SEA,RB
+DaltAn00,Andy Dalton,Dallas Cowboys,DAL,QB
+EricAl01,Alex Erickson,Cincinnati Bengals,CIN,WR
+FounDa00,Daurice Fountain,Indianapolis Colts,IND,WR
+GreeVi00,Virgil Green,Los Angeles Chargers,LAC,TE
+HamxC.00,C.J. Ham,Minnesota Vikings,MIN,RB
+HastJa02,Jamycal Hasty,San Francisco 49ers,SFO,RB
+HillDo00,Dontrell Hilliard,Cleveland Browns,CLE,RB
+HillJo02,Josh Hill,New Orleans Saints,NOR,TE
+HillKJ00,K.J. Hill,Los Angeles Chargers,LAC,WR
+HoyeBr00,Brian Hoyer,New England Patriots,NWE,QB
+JanoAn00,Andy Janovich,Cleveland Browns,CLE,RB
+MickJa01,Jaydon Mickens,Tampa Bay Buccaneers,TAM,WR
+MontTy01,Ty Montgomery,New Orleans Saints,NOR,RB
+PrinBy00,Byron Pringle,Kansas City Chiefs,KAN,WR
+RossJo00,John Ross,Cincinnati Bengals,CIN,WR
+ShepDa00,Darrius Shepherd,Green Bay Packers,GNB,WR
+SimsCa00,Cam Sims,Washington Football Team,WAS,WR
+SmitAl03,Alex Smith,Washington Football Team,WAS,QB
+TaylMa01,Malik Taylor,Green Bay Packers,GNB,WR
+ThomMi05,Michael Thomas,New Orleans Saints,NOR,WR
+YeldT.00,T.J. Yeldon,Buffalo Bills,BUF,RB
+ZubeIs00,Isaiah Zuber,New England Patriots,NWE,WR
+BlasKh00,Khari Blasingame,Tennessee Titans,TEN,RB
+BowdLy00,Lynn Bowden Jr.,Miami Dolphins,MIA,RB
+BrisJa00,Jacoby Brissett,Indianapolis Colts,IND,QB
+BurtMi00,Michael Burton,New Orleans Saints,NOR,RB
+ButtJa00,Jake Butt,Denver Broncos,DEN,TE
+ClevTy00,Tyrie Cleveland,Denver Broncos,DEN,WR
+CoopPh00,Pharoh Cooper,Carolina Panthers,CAR,WR
+CoxxCh01,Chandler Cox,Miami Dolphins,MIA,RB
+DeguJo00,Josiah Deguara,Green Bay Packers,GNB,TE
+EvanDa02,Darrynton Evans,Tennessee Titans,TEN,RB
+FowlBe00,Bennie Fowler,New Orleans Saints,NOR,WR
+GillCu00,Cullen Gillaspia,Houston Texans,HOU,RB
+GrahJa01,Jaeden Graham,Atlanta Falcons,ATL,TE
+GrifRy00,Ryan Griffin,New York Jets,NYJ,TE
+HemiTe00,Temarrick Hemingway,Washington Football Team,WAS,TE
+HudsTa00,Tanner Hudson,Tampa Bay Buccaneers,TAM,TE
+JarwBl00,Blake Jarwin,Dallas Cowboys,DAL,TE
+KmetCo00,Cole Kmet,Chicago Bears,CHI,TE
+LairPa00,Patrick Laird,Miami Dolphins,MIA,RB
+McNiJe00,Jeremy McNichols,Tennessee Titans,TEN,RB
+MeyeJa01,Jakobi Meyers,New England Patriots,NWE,WR
+MundJo00,Johnny Mundt,Los Angeles Rams,LAR,TE
+NabeGa00,Gabe Nabers,Los Angeles Chargers,LAC,RB
+OlszGu00,Gunner Olszewski,New England Patriots,NWE,WR
+PerrSe00,Senorise Perry,Tennessee Titans,TEN,RB
+ReedJo03,Joe Reed,Los Angeles Chargers,LAC,WR
+RiddTh00,Theo Riddick,Las Vegas Raiders,LVR,RB
+SamuJa00,Jaylen Samuels,Pittsburgh Steelers,PIT,RB
+SanuMo00,Mohamed Sanu,San Francisco 49ers,SFO,WR
+SherTr00,Trent Sherfield,Arizona Cardinals,ARI,WR
+SmitKe03,Keith Smith,Atlanta Falcons,ATL,RB
+SpenDi00,Diontae Spencer,Denver Broncos,DEN,WR
+StocLu00,Luke Stocker,Atlanta Falcons,ATL,TE
+ThomDa06,Darwin Thompson,Kansas City Chiefs,KAN,RB
+ToilLe00,Levine Toilolo,New York Giants,NYG,TE
+WescTr00,Trevon Wesco,New York Jets,NYJ,TE
+YeldDe00,Deon Yelder,Kansas City Chiefs,KAN,TE
+AbduAm00,Ameer Abdullah,Minnesota Vikings,MIN,
+AndeSt01,Stephen Anderson,Los Angeles Chargers,LAC,
+AuclAn00,Antony Auclair,Tampa Bay Buccaneers,TAM,
+BarnKe00,Kenjon Barner,Tampa Bay Buccaneers,TAM,
+BaugMa02,Marcus Baugh,Washington Football Team,WAS,TE
+BaylEv00,Evan Baylis,Arizona Cardinals,ARI,
+BeckAn01,Andrew Beck,Denver Broncos,DEN,
+BoylTi00,Tim Boyle,Green Bay Packers,GNB,QB
+BrowDa04,Daniel Brown,New York Jets,NYJ,
+BrowPh01,Pharaoh Brown,Houston Texans,HOU,TE
+BurtDe00,Deante Burton,Dallas Cowboys,DAL,
+CannTr00,Trenton Cannon,Carolina Panthers,CAR,RB
+CarrAu00,Austin Carr,New Orleans Saints,NOR,
+CarrDe00,Derek Carrier,Las Vegas Raiders,LVR,
+ConkTy00,Tyler Conklin,Minnesota Vikings,MIN,
+CrooJa00,Jason Croom,Philadelphia Eagles,PHI,
+DossKe00,Keelan Doss,Las Vegas Raiders,LVR,
+EdmuTr00,Trey Edmunds,Pittsburgh Steelers,PIT,
+FinlRy00,Ryan Finley,Cincinnati Bengals,CIN,
+FostD.01,D.J. Foster,Arizona Cardinals,ARI,
+GaffRi00,Rico Gafford,Las Vegas Raiders,LVR,
+GoodC.00,C.J. Goodwin,Dallas Cowboys,DAL,
+GrayCy01,Cyril Grayson,Tampa Bay Buccaneers,TAM,
+GrifGa00,Garrett Griffin,New Orleans Saints,NOR,
+HardJu01,Justin Hardee,New Orleans Saints,NOR,
+HarrCl20,Clark Harris,Cincinnati Bengals,CIN,
+HillJu00,Justice Hill,Baltimore Ravens,BAL,
+HollCo00,Cody Hollister,Tennessee Titans,TEN,
+HollMa00,Mack Hollins,Miami Dolphins,MIA,
+HoltJ.01,J.P. Holtz,Chicago Bears,CHI,
+HoltJo00,Johnny Holton,New York Giants,NYG,
+HoweGr00,Buddy Howell,Houston Texans,HOU,
+HuntJa01,Jason Huntley,Philadelphia Eagles,PHI,RB
+JameRi00,Richie James,San Francisco 49ers,SFO,
+JohnTy02,Ty Johnson,Detroit Lions,DET,
+KempMa00,Marcus Kemp,Kansas City Chiefs,KAN,
+MillBr02,Bruce Miller,Jacksonville Jaguars,JAX,RB
+MoorJa02,Jason Moore,Los Angeles Chargers,LAC,
+NallRy00,Ryan Nall,Chicago Bears,CHI,RB
+NatsJo00,Jojo Natson,Cleveland Browns,CLE,WR
+OgunDa00,Dare Ogunbowale,Jacksonville Jaguars,JAX,
+OlliQa00,Qadree Ollison,Atlanta Falcons,ATL,
+PennEl00,Elijhaa Penny,New York Giants,NYG,RB
+PeriSa00,Samaje Perine,Cincinnati Bengals,CIN,
+PettDa00,Dante Pettis,San Francisco 49ers,SFO,
+PopeTr00,Troymaine Pope,Los Angeles Chargers,LAC,
+ProsC.00,C.J. Prosise,Houston Texans,HOU,RB
+RobeAn00,Andre Roberts,Buffalo Bills,BUF,WR
+SchrMa00,Mason Schreck,Cincinnati Bengals,CIN,
+SharTa00,Tajae Sharpe,Minnesota Vikings,MIN,
+SlatMa00,Matthew Slater,New England Patriots,NWE,
+SpriJe00,Jeremy Sprinkle,Washington Football Team,WAS,
+StreCh00,Chris Streveler,Arizona Cardinals,ARI,QB
+ThomCo03,Colin Thompson,Carolina Panthers,CAR,
+TomlEr01,Eric Tomlinson,New York Giants,NYG,
+TurnMa00,Malik Turner,Dallas Cowboys,DAL,
+VannNi00,Nick Vannett,Denver Broncos,DEN,TE
+WarrKa00,Kahale Warring,Houston Texans,HOU,
+WashDw00,Dwayne Washington,New Orleans Saints,NOR,
+WebsNs00,Nsimba Webster,Los Angeles Rams,LAR,
+WestDe00,Dede Westbrook,Jacksonville Jaguars,JAX,WR
+WhitKe00,Kevin White,San Francisco 49ers,SFO,
+WillLu00,Luke Willson,Seattle Seahawks,SEA,
+WillMa04,Maxx Williams,Arizona Cardinals,ARI,
+ZylsBr00,Brandon Zylstra,Carolina Panthers,CAR,
+CartDe02,DeAndre Carter,Houston Texans,HOU,WR
+CoutKe00,Keke Coutee,Houston Texans,HOU,WR
+KillAd00,Adrian Killins,Philadelphia Eagles,PHI,RB
+GrifRo01,Robert Griffin III,Baltimore Ravens,BAL,QB
